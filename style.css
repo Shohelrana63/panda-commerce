@@ -11,6 +11,7 @@
 .price{
     color: #ff136f;
 }
+/* button section */
 .buy-now-button{
     background-image: linear-gradient(to bottom, #ff5898 0%, #ff136f 100%);
     color: #fff;
@@ -19,6 +20,7 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+/* categories section */
 .cat1, .cat2, .cat3{
     padding: 10px 30px;
     border-radius: 10px;
@@ -38,6 +40,7 @@
 .categories img{
       width: 100px;
 }
+/* card section */
 .card{
     border: none;
     border-radius: 10px;
@@ -46,4 +49,16 @@
 .card-footer{
     background-color: white;
     border-top: none;
+}
+/* subscribe section */
+#subscribe{
+    
+    height: 300px;
+}
+#subscribe h5{
+    color:gray;
+}
+/* footer section */
+footer{
+    text-align: center;
 }
